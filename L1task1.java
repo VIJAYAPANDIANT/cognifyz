@@ -18,5 +18,7 @@ public class L1task1 {
         } else {
             System.out.println("Invalid unit.");
         }
+        sc.close();
     }
+    
 }

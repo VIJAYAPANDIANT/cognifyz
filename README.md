@@ -72,8 +72,8 @@ Welcome to my repository for the **Cognifyz Java Development Internship**. This 
 1. **Prerequisites**: Ensure you have [JDK](https://www.oracle.com/java/technologies/downloads/) installed.
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/VIJAYAPANDIANT/Cognifyz.git
-   cd Cognifyz
+   git clone https://github.com/VIJAYAPANDIANT/cognifyz.git
+   cd cognifyz
    ```
 3. **Compile a Task**:
    ```bash
